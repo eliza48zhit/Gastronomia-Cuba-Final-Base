@@ -33,4 +33,4 @@ Votacion Inmutable: Sistema final de Likes y Dislikes para cerrar el ranking de 
 
 🐈 Nota de Autoria Final
 
-🐈 Despedida del Gato: ¡Lo logramos, Emanuel! En Cuba, el gato sabe que el ultimo bocado es el que mas se disfruta. Hemos recorrido toda America, bloque por bloque, sabor por sabor. Mi mision de documentar cada rincon del continente en la red Base ha llegado a su destino. ¡El registro es eterno y el conocimiento es libre! Gracias por este viaje. 🐾
+🐈 Despedida del Gato: ¡Lo logramos! En Cuba, el gato sabe que el ultimo bocado es el que mas se disfruta. Hemos recorrido toda America, bloque por bloque, sabor por sabor. Mi mision de documentar cada rincon del continente en la red Base ha llegado a su destino. ¡El registro es eterno y el conocimiento es libre! Gracias por este viaje. 🐾
